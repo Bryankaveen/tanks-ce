@@ -9,6 +9,6 @@ If you really think that this version will somehow take away profits from a cons
 Developed using the [CE C Toolchain](https://github.com/CE-Programming/toolchain).
 The [C libraries](https://github.com/CE-Programming/libraries/releases/latest) are required to run this program. 
 
-As this project is still in alpha, GitHub releases may be significantly behind until I get the final release out.
+As this project is still in bêta, GitHub releases may be significantly behind until I get the final release out.
 
 Feel free to ask questions or roast my terrible code quality in the project's [Cemetech thread](https://www.cemetech.net/forum/viewtopic.php?t=14718).
